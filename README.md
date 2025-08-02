@@ -3,7 +3,7 @@ Android app built with Jetpack Compose, MVVM, Room, and WorkManager to track pre
 
 HOW TO RUN
 1.export the zip
-2.open the folder in vs code
+2.open the folder in Android Studio
 3.sync the gradle build
 4.run
 
